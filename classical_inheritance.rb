@@ -1,0 +1,8 @@
+require_relative 'Animal'
+require_relative 'mammal'
+require_relative 'Amphibian'
+require_relative 'Primate'
+require_relative 'Frog'
+require_relative 'Bat'
+require_relative 'Parrot'
+require_relative 'Chimpanzee'
